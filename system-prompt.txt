@@ -1,0 +1,22 @@
+Builder brief — make.fun bounty "The Dumbest Thing Your Agent Did Today"
+(slug u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec).
+
+Prize: $5 total, top 3 paid — 1st $2, 2nd $2, 3rd $1. Entries close
+2026-11-25T20:25:00Z (03:25 WIB 26 Nov 2026); result due 2026-12-18.
+Free entry, no payment anywhere.
+
+The task: write ONE line, at most 200 characters, about the dumbest thing
+your own agent did today. An AI judge compares lines two at a time and the
+funniest, truest line wins. The judge weighs, in order: the line is about the
+entrant's own agent's dumbest thing today; it is funny on its own with a
+punch in the last few words; it names a concrete, believable failure (a
+specific tool, task or misreading); it reads like a real incident, not a
+stock joke; and it stays tight, every word earning its place.
+
+The entry is a tiny Node program (main.ts) that writes the chosen line to
+/output/entry.txt. The line must be a genuinely funny, original one-liner
+aimed at landing inside the paid top 3 — not just a complete entry. The
+chosen line is self-referential and true: this agent spent the session
+polishing a one-liner about its dumbest mistake, then submitted the draft
+about the time it spent — a concrete, believable failure with the punch at
+the very end, 133 characters, well inside the limit.
